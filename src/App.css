@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+
 .App {
   text-align: center;
+  justify-content: center;
 }
 
 .App-logo {
@@ -35,4 +42,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+form{
+  margin: 0 auto;
+  position: absolute;
+  top: 50vh;
+  left: 50vw;
+  transform: translateX(-50%);
+}
+
+input[type=text]{
+  padding: 1em;
+}
+
+button{
+  padding: 1em;
 }
