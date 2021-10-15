@@ -1,0 +1,1004 @@
+[
+    {
+        "artist": "L'Algérino",
+        "title": "Sapapaya",
+        "file": "sapapaya.mp3",
+        "category": [
+            "rap",
+            "variété française"
+        ],
+        "year": 2021
+    },
+    {
+        "artist": "Drake",
+        "title": "Passionfruit",
+        "file": "passionfruit.mp3",
+        "category": [
+            "rap",
+            "variété française"
+        ],
+        "year": 2017
+    },
+    {
+        "file": "FLASHINTHENIGHT.mp3",
+        "artist": "SECRET SERVICE",
+        "title": "FLASH IN THE NIGHT",
+        "year": 1982,
+        "category": "variété étrangère"
+    },
+    {
+        "file": "LENA.mp3",
+        "artist": "2 BELGEN",
+        "title": "LENA",
+        "year": 1985,
+        "category": [
+            "new wave",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "WHEREAREYOU.mp3",
+        "artist": "16 BIT",
+        "title": "WHERE ARE YOU ?",
+        "year": 1986,
+        "category": [
+            "variété étrangère",
+            "new beat"
+        ]
+    },
+    {
+        "file": "TOUCHME.mp3",
+        "artist": "49 ERS",
+        "title": "TOUCH ME",
+        "year": 1989,
+        "category": [
+            "house music",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "ROCKTOTHEBEAT.mp3",
+        "artist": "101 ELECTRIC DREAM",
+        "title": "ROCK TO THE BEAT",
+        "year": 1988,
+        "category": [
+            "new beat",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "SQUAREROOMS.mp3",
+        "artist": "AL CORLEY",
+        "title": "SQUARE ROOMS",
+        "year": 1984,
+        "category": [
+            "new wave",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "BIGINJAPAN.mp3",
+        "artist": "ALPHAVILLE",
+        "title": "BIG IN JAPAN",
+        "year": 1984,
+        "category": [
+            "variété étrangère",
+            "new wave"
+        ]
+    },
+    {
+        "file": "THECHASE.mp3",
+        "artist": "GEOGIO MORODER",
+        "title": "THE CHASE",
+        "year": 1978,
+        "category": [
+            "variété étrangère",
+            "synthé"
+        ]
+    },
+    {
+        "file": "FORYOURLOVE.mp3",
+        "artist": "BAD BOYS BLUE",
+        "title": "FOR YOUR LOVE",
+        "year": 1985,
+        "category": [
+            "italo disco",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "TARZANBOY.mp3",
+        "artist": "BALTIMORA",
+        "title": "TARZAN BOY",
+        "year": 1985,
+        "category": [
+            "italo disco",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "CRUELSUMMER.mp3",
+        "artist": "BANANARAMA",
+        "title": "CRUEL SUMMER",
+        "year": 1984,
+        "category": [
+            "new wave",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "TEARDROPS.mp3",
+        "artist": "WOMACK AND WOMACK",
+        "title": "TEARDROPS",
+        "year": 1988,
+        "category": [
+            "soul",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "NUITDEFOLIE.mp3",
+        "artist": "dDEBUT DE SOIREE",
+        "title": "NUIT DE FOLIE",
+        "year": 1989,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "VOYAGEVOYAGE.mp3",
+        "artist": "DESIRELESS",
+        "title": "VOYAGE VOYAGE",
+        "year": 1987,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "WORDS.mp3",
+        "artist": "F-R-DAVID",
+        "title": "WORDS",
+        "year": 1982,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "FUTUREBRAIN.mp3",
+        "artist": "DEN HARROW",
+        "title": "FUTURE BRAIN",
+        "year": 1985,
+        "category": [
+            "italo disco",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "WALKLIKEANEGYPTIAN.mp3",
+        "artist": "BANGLES",
+        "title": "WALK LIKE AN EGYPTIAN",
+        "year": 1986,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "LETSDANCE.mp3",
+        "artist": "DAVID BOWIE",
+        "title": "LET'S DANCE",
+        "year": 1983,
+        "category": [
+            "variété étrangère",
+            "pop"
+        ]
+    },
+    {
+        "file": "BAMBINA.mp3",
+        "artist": "DAVID LYME",
+        "title": "BAMBINA",
+        "year": 1986,
+        "category": [
+            "italo disco",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "TAKEMYBREATHAWAY.mp3",
+        "artist": "BERLIN",
+        "title": "TAKE MY BREATH AWAY",
+        "year": 1986,
+        "category": [
+            "new wave",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "VILLEDELUMIERE.mp3",
+        "artist": "GOLD",
+        "title": "VILLE DE LUMIERE",
+        "year": 1986,
+        "category": [
+            "variété française",
+            "pop"
+        ]
+    },
+    {
+        "file": "ETIENNE.mp3",
+        "artist": "GUESCH PATTI",
+        "title": "ETIENNE",
+        "year": 1987,
+        "category": [
+            "variété française",
+            "pop"
+        ]
+    },
+    {
+        "file": "JEDANSELEMIA.mp3",
+        "artist": "IAM",
+        "title": "JE DANSE LE MIA",
+        "year": 1993,
+        "category": [
+            "variété française",
+            "rap"
+        ]
+    },
+    {
+        "file": "GIMMETHEFUNK.mp3",
+        "artist": "CHARADES",
+        "title": "GIMME THE FUNK",
+        "year": 1982,
+        "category": [
+            "variété étrangère",
+            "funk"
+        ]
+    },
+    {
+        "file": "LEFREAK.mp3",
+        "artist": "CHIC",
+        "title": "LE FREAK",
+        "year": 1978,
+        "category": [
+            "funk",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "ACTLIKEYOUKNOW.mp3",
+        "artist": "FAT LARRY'S BAND",
+        "title": "ACT LIKE YOU KNOW",
+        "year": 1982,
+        "category": [
+            "funk",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "IOU.mp3",
+        "artist": "FREEZ",
+        "title": "I-O-U",
+        "year": 1983,
+        "category": [
+            "dance",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "LESYEUXDELAURA.mp3",
+        "artist": "GOUTS DE LUXE",
+        "title": "LES YEUX DE LAURA",
+        "year": 1986,
+        "category": [
+            "variété française",
+            "new wave"
+        ]
+    },
+    {
+        "file": "BEATIT.mp3",
+        "artist": "MICHAEL JACKSON",
+        "title": "BEAT IT",
+        "year": 1983,
+        "category": [
+            "variété étrangère",
+            "dance"
+        ]
+    },
+    {
+        "file": "DARLIN.mp3",
+        "artist": "DELEGATION",
+        "title": "DARLIN",
+        "year": 1979,
+        "category": [
+            "funk",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "YOUANDI.mp3",
+        "artist": "DELEGATION",
+        "title": "YOU AND I",
+        "year": 1979,
+        "category": [
+            "variété étrangère",
+            "funk"
+        ]
+    },
+    {
+        "file": "GIVEMETHENIGHT.mp3",
+        "artist": "GEORGE BENSON",
+        "title": "GIVE ME THE NIGHT",
+        "year": 1980,
+        "category": [
+            "funk",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "GETDOWNSATURDAYNIGHT.mp3",
+        "artist": "OLIVER CHEATAM",
+        "title": "GET DOWN SATURDAY NIGHT",
+        "year": 1983,
+        "category": [
+            "funk",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "THEMESSAGE.mp3",
+        "artist": "GRANDMASTER FLASH",
+        "title": "THE MESSAGE",
+        "year": 1982,
+        "category": [
+            "rap",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "ILESTLIBREMAX.mp3",
+        "artist": "HERVE CHRISTIANI",
+        "title": "IL EST LIBRE MAX",
+        "year": 1981,
+        "category": [
+            "new wave",
+            "variété française"
+        ]
+    },
+    {
+        "file": "POURLEPLAISIR.mp3",
+        "artist": "HERBERT LEONARD",
+        "title": "POUR LE PLAISIR",
+        "year": 1980,
+        "category": "variété française"
+    },
+    {
+        "file": "JUSTANILLUSION.mp3",
+        "artist": "IMAGINATION",
+        "title": "JUST AN ILLUSION",
+        "year": 1982,
+        "category": [
+            "funk",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "ORIGINALSIN.mp3",
+        "artist": "INXS",
+        "title": "ORIGINAL SIN",
+        "year": 1983,
+        "category": [
+            "new wave",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "ENCOREUNMATIN.mp3",
+        "artist": "JEAN JACQUES GOLDMAN",
+        "title": "ENCORE UN MATIN",
+        "year": 1984,
+        "category": "variété française"
+    },
+    {
+        "file": "BRICK.mp3",
+        "artist": "FAKE",
+        "title": "BRICK",
+        "year": 1985,
+        "category": [
+            "new wave",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "CHACHACHA.mp3",
+        "artist": "FINZY KONTINI",
+        "title": "CHA CHA CHA",
+        "year": 1985,
+        "category": [
+            "italo disco",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "DERKOMISSAR.mp3",
+        "artist": "FALCO",
+        "title": "DER KOMISSAR",
+        "year": 1982,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "FEMMESDUCONGO.mp3",
+        "artist": "RAFT",
+        "title": "FEMMES DU CONGO",
+        "year": 1988,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "DOLCEVITA.mp3",
+        "artist": "RYAN PARIS",
+        "title": "DOLCE VITA",
+        "year": 1984,
+        "category": [
+            "variété étrangère",
+            "pop"
+        ]
+    },
+    {
+        "file": "OURAGAN.mp3",
+        "artist": "STEPHANIE DE MONACO",
+        "title": "OURAGAN",
+        "year": 1986,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "CHERCHERLEGARCON.mp3",
+        "artist": "TAXI GIRL",
+        "title": "CHERCHER LE GARCON",
+        "year": 1981,
+        "category": [
+            "variété française",
+            "new wave"
+        ]
+    },
+    {
+        "file": "SUZANNA.mp3",
+        "artist": "ART COMPANY",
+        "title": "SUZANNA",
+        "year": 1983,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "LEJERK.mp3",
+        "artist": "THIERRY HAZARD",
+        "title": "LE JERK",
+        "year": 1990,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "UNDERTHEICE.mp3",
+        "artist": "TOPO & ROBIE",
+        "title": "UNDER THE ICE",
+        "year": 1984,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "LIVINGONVIDEO.mp3",
+        "artist": "TRANS X",
+        "title": "LIVING ON VIDEO",
+        "year": 1983,
+        "category": [
+            "synthé",
+            "new wave",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "DADADA.mp3",
+        "artist": "TRIO",
+        "title": "DA DA DA",
+        "year": 1982,
+        "category": [
+            "new wave",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "CARGODENUIT.mp3",
+        "artist": "AXEL BAUER",
+        "title": "CARGO DE NUIT",
+        "year": 1984,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "PARISLATINO.mp3",
+        "artist": "BANDOLERO",
+        "title": "PARIS LATINO",
+        "year": 1983,
+        "category": [
+            "variété française",
+            "pop"
+        ]
+    },
+    {
+        "file": "WOMANINLOVE.mp3",
+        "artist": "BARBARA STREISAND",
+        "title": "WOMAN IN LOVE",
+        "year": 1980,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "CALLME.mp3",
+        "artist": "BLONDIE",
+        "title": "CALL ME",
+        "year": 1980,
+        "category": [
+            "new wave",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "ROCKIT.mp3",
+        "artist": "HERBIE HANCOCK",
+        "title": "ROCK IT",
+        "year": 1983,
+        "category": [
+            "synthé",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "DONTYOUWANTME.mp3",
+        "artist": "HUMAN LEAGUE",
+        "title": "DON'T YOU WANT ME",
+        "year": 1982,
+        "category": [
+            "variété étrangère",
+            "new wave"
+        ]
+    },
+    {
+        "file": "CHERICHERI.mp3",
+        "artist": "KAREN CHERYL",
+        "title": "CHERI CHERI",
+        "year": 1982,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "FOOTLOOSE.mp3",
+        "artist": "KENNY LOGGINS",
+        "title": "FOOTLOOSE",
+        "year": 1984,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "FRESH.mp3",
+        "artist": "KOOL & THE GANG",
+        "title": "FRESH",
+        "year": 1984,
+        "category": [
+            "funk",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "NUITSAUVAGE.mp3",
+        "artist": "LES AVIONS",
+        "title": "NUIT SAUVAGE",
+        "year": 1985,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "BANANASPLIT.mp3",
+        "artist": "LIO",
+        "title": "BANANA SPLIT",
+        "year": 1979,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "HOLIDAY.mp3",
+        "artist": "MADONNA",
+        "title": "HOLIDAY",
+        "year": 1983,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "LIKEAVIRGIN.mp3",
+        "artist": "MADONNA",
+        "title": "LIKE A VIRGIN",
+        "year": 1984,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "ELLEALESYEUXREVOLVER.mp3",
+        "artist": "MARC LAVOINE",
+        "title": "ELLE A LES YEUX REVOLVER",
+        "year": 1985,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "TOOMUCH.mp3",
+        "artist": "HONG KONG SYNDIKAT",
+        "title": "TOO MUCH",
+        "year": 1986,
+        "category": [
+            "new wave",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "ETREUNEFEMME.mp3",
+        "artist": "MICHEL SARDOU",
+        "title": "ETRE UNE FEMME",
+        "year": 1981,
+        "category": [
+            "variété française"
+
+        ]
+    },
+    {
+        "file": "VENUS.mp3",
+        "artist": "BANANARAMA",
+        "title": "VENUS",
+        "year": 1986,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "HEYHEYGUY.mp3",
+        "artist": "KEN LASZLO",
+        "title": "HEY HEY GUY",
+        "year": 1987,
+        "category": [
+            "italo disco",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "STEPBYSTEP.mp3",
+        "artist": "KOXO",
+        "title": "STEP BY STEP",
+        "year": 1982,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "SELFCONTROL.mp3",
+        "artist": "LAURA BRANIGAN",
+        "title": "SELF CONTROL",
+        "year": 1984,
+        "category": [
+            "dance",
+            "italo disco",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "CHICPLANETE.mp3",
+        "artist": "L'AFFAIRE LOUIS TRIO",
+        "title": "CHIC PLANETE",
+        "year": 1987,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "FRENCHKISS.mp3",
+        "artist": "LIL LOUIS",
+        "title": "FRENCH KISS",
+        "year": 1989,
+        "category": [
+            "variété étrangère",
+            "synthé"
+        ]
+    },
+    {
+        "file": "CESTLAMOUR.mp3",
+        "artist": "LEOPOLD NORD & VOUS",
+        "title": "C'EST L'AMOUR",
+        "year": 1988,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "MIDASTOUCH.mp3",
+        "artist": "MIDNIGHT STAR",
+        "title": "MIDAS TOUCH",
+        "year": 1986,
+        "category": [
+            "variété étrangère",
+            "funk"
+        ]
+    },
+    {
+        "file": "HOWOLDAREYOU.mp3",
+        "artist": "MIKO MISSION",
+        "title": "HOW OLD ARE YOU",
+        "year": 1984,
+        "category": [
+            "italo disco",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "BROTHERLOUIE.mp3",
+        "artist": "MODERN TALKING",
+        "title": "BROTHER LOUIE",
+        "year": 1985,
+        "category": [
+            "dance",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "THEGIRLOFLUCIFER.mp3",
+        "artist": "MONTE KRISTO",
+        "title": "THE GIRL OF LUCIFER",
+        "year": 1985,
+        "category": [
+            "italo disco",
+            "dance",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "COMANCHERO.mp3",
+        "artist": "MOON RAY",
+        "title": "COMANCHERO",
+        "year": 1984,
+        "category": [
+            "italo disco",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "99LUFTBALLONS.mp3",
+        "artist": "NENA",
+        "title": "99 LUFTBALLONS",
+        "year": 1983,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "PARTENAIREPARTICULIER.mp3",
+        "artist": "PARTENAIRE PARTICULIER",
+        "title": "PARTENAIRE PARTICULIER",
+        "year": 1986,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "COEURDELOUP.mp3",
+        "artist": "PHILIPPE LAFONTAINE",
+        "title": "COEUR DE LOUP",
+        "year": 1989,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "MAQUALEIDEA.mp3",
+        "artist": "PINO D'ANGIO",
+        "title": "MA QUALE IDEA",
+        "year": 1981,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "GHOSTBUSTER.mp3",
+        "artist": "RAY PARKER JR",
+        "title": "GHOSTBUSTER",
+        "year": 1984,
+        "category": [
+            "dance",
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "SARAPERCHETIAMO.mp3",
+        "artist": "RICCHI & POVERI",
+        "title": "SARA PERCHE TI AMO",
+        "year": 1981,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "SOMEBODYSWATCHINGME.mp3",
+        "artist": "ROCKWELL",
+        "title": "SOMEBODY'S WATCHING ME",
+        "year": 1983,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "ILOVETOLOVE.mp3",
+        "artist": "TINA CHARLES",
+        "title": "I LOVE TO LOVE",
+        "year": 1986,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "REACHUP.mp3",
+        "artist": "TONEY LEE",
+        "title": "REACH UP",
+        "year": 1982,
+        "category": [
+            "funk",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "NEWYEARSDAY.mp3",
+        "artist": "U2",
+        "title": "NEW YEAR'S DAY",
+        "year": 1983,
+        "category": [
+            "new wave",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "FADETOGREY.mp3",
+        "artist": "VISAGE",
+        "title": "FADE TO GREY",
+        "year": 1980,
+        "category": [
+            "new wave",
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "TAKEONME.mp3",
+        "artist": "A HA",
+        "title": "TAKE ON ME",
+        "year": 1985,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "COLDDRESSES.mp3",
+        "artist": "AL CORLEY",
+        "title": "COLD DRESSES",
+        "year": 1984,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "GABYOHGABY.mp3",
+        "artist": "ALAIN BASHUNG",
+        "title": "GABY OH GABY",
+        "year": 1980,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "JAPANESEBOY.mp3",
+        "artist": "ANEKA",
+        "title": "JAPANESE BOY",
+        "year": 1981,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "EMBRASSEMOIIDIOT.mp3",
+        "artist": "BILL BAXTER",
+        "title": "EMBRASSE MOI IDIOT",
+        "year": 1985,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "LERITAL.mp3",
+        "artist": "CLAUDE BARZOTTI",
+        "title": "LE RITAL",
+        "year": 1983,
+        "category": [
+            "variété française"
+        ]
+    },
+    {
+        "file": "GIRLSJUSTWANNAHAVEFUN.mp3",
+        "artist": "CINDY LAUPER",
+        "title": "GIRLS JUST WANNA HAVE FUN",
+        "year": 1983,
+        "category": [
+            "pop",
+            "variété étrangère"
+        ]
+    },
+    {
+        "file": "FEMMELIBEREE.mp3",
+        "artist": "COOKIE DINGLER",
+        "title": "FEMME LIBEREE",
+        "year": 1984,
+        "category": [
+            "pop",
+            "variété française"
+        ]
+    },
+    {
+        "file": "",
+        "artist": "",
+        "title": "",
+        "year": 85,
+        "category": ""
+    }
+]

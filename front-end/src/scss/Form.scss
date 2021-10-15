@@ -1,0 +1,49 @@
+@import './variables.scss';
+
+.form-container{
+    width: 100%;
+    input{
+        padding: 1em 2em;
+        font-size: 1em;
+        text-align: center;
+        color: $base-color-lighter;
+        background-color: $white;
+        border: 2px solid $base-color-lighter;
+        border-radius: 25px;
+        box-shadow: 2px 3px;
+    }[type=text]{
+        font-weight: bold;
+        transition: .5s linear;
+        &::placeholder{
+            color: $base-color-lighter;
+        }
+        &:hover{
+            box-shadow: none;
+        }
+        &:focus{
+            border: 2px solid $base-color;
+            outline: none;
+            color: $base-color;
+            box-shadow: -1px -1px;
+            &::placeholder{
+                color: $base-color;
+            }
+        }
+    }[type=submit]{
+        font-weight: bolder;
+        transition: .3s linear;
+        &:hover{
+            color: $base-color;
+            border-color: $base-color;
+            cursor: pointer;
+            box-shadow: none;
+        }
+    }
+    .input-container{
+        p{
+            font-size: 24px;
+            font-weight: bolder;
+            color: $black;
+        }
+    }
+}
